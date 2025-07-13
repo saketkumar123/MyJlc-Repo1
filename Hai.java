@@ -1,6 +1,6 @@
 public class Hai {
 
-    public static void main(){
+    public void hai(){
         System.out.println("Hai...How.. I am here");
     }
 }
